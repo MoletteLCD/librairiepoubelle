@@ -117,7 +117,19 @@ Cette représentation imagée, est appellée abstraction, pour une meilleure com
 
 
 
-### Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers)
+## Les Langages
+
+### Langages dit Compilés
+
+#### Rust
+
+### Langages dit Interprétés
+
+#### Python
+
+## Cours Programmation Système
+
+#### Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers)
 
 *En général, les Pointeurs, la Pile/Tas, sont les notions les plus difficiles à cerner, mais lorsque vous les avez acquises, vous débloquez la compréhension de votre machine, son fonctionnement en mémoire et donc vous possédez une meilleure manière de rendre le programme performant.*
 
