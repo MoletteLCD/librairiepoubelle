@@ -45,7 +45,10 @@
 
 #### Modèle OSI ou TCP/IP pour Open Systems Interconnection | Transport Control Protocol / Internet Protocol
 
+
 <img align="right" src="https://linux-note.com/wp-content/uploads/2014/11/modele-osi-vs-tcp.png"/>
+
+
 
 **Le modèle OSI (anciennenement TCP/IP) est le modèle standard d'interconnection entre les systèmes, il est à la base du fonctionnement dans l'architecture Serveur/Client qui est utilisée sur le Web, il se décline ainsi:**
 
@@ -78,6 +81,25 @@ HTTP : https://www.youtube.com/watch?v=sz3gXm5v_G0
 Django Web Framework : https://www.youtube.com/watch?v=Bn0k9DDYBZM 
 - Framework définition: https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203355-framework/
 
+#### Architecture Serveur/Client
+
+
+<img align="right" src="https://romainlebreton.github.io/ProgWeb-CoteServeur/assets/ClientServeur.png"/>
+
+
+#### Anatomie d'une Requête/Reponse en Architecture S/C
+
+
+<img align="right" src="https://ars.els-cdn.com/content/image/3-s2.0-B9781597499613000030-f03-08-9781597499613.jpg"/>
+
+
+Une requête se compose de drapeau (flags) suivants :
+
+- SYN
+- SYN/ACK
+- ACK
+
+SYN - SYN/ACK - ACK : Permet au client d'initier la connexion, le serveur lui retourne (SYN/ACK) une initiation de connexion, tout en validant qu'il accepte la requête initiale (SYN) du client, le client lui valide la demande du serveur (ACK), et la connexion est établie, ceci est le 3 Way Handshake ou la poignée de main en 3 modes.
 
 ## Partie Système
 
