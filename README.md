@@ -26,9 +26,14 @@
 **Base de la programmation avec le langage Python:**
 
 * APPRENDRE PYTHON : TUTO COMPLET DÉBUTANT https://www.youtube.com/watch?v=LamjAFnybo0
+
 * APPRENDRE PYTHON : LES ALGORITHMES [TUTO PROGRAMMATION DÉBUTANT] https://www.youtube.com/watch?v=dcSmvs6wadg
+
 * Apprenez les bases du langage Python https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python
+
 * Apprenez la programmation orientée objet avec Python https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
+
+* Documentation officielle Python : https://docs.python.org/fr/3/
 
 
 **Web, HTML/CSS/JS - HTTP**
