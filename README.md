@@ -46,7 +46,7 @@
 #### Modèle OSI ou TCP/IP pour Open Systems Interconnection | Transport Control Protocol / Internet Protocol
 
 
-<img align="right" src="https://linux-note.com/wp-content/uploads/2014/11/modele-osi-vs-tcp.png"/>
+<p align="right"> <img src="https://linux-note.com/wp-content/uploads/2014/11/modele-osi-vs-tcp.png"/> </p>
 
 
 
@@ -84,13 +84,13 @@ Django Web Framework : https://www.youtube.com/watch?v=Bn0k9DDYBZM
 #### Architecture Serveur/Client
 
 
-<img align="right" src="https://romainlebreton.github.io/ProgWeb-CoteServeur/assets/ClientServeur.png"/>
+<p align="right"> <img align="right" src="https://romainlebreton.github.io/ProgWeb-CoteServeur/assets/ClientServeur.png"/> </p>
 
 
 #### Anatomie d'une Requête/Reponse en Architecture S/C
 
 
-<img align="right" src="https://ars.els-cdn.com/content/image/3-s2.0-B9781597499613000030-f03-08-9781597499613.jpg"/>
+<p align="right"><img align="right" src="https://ars.els-cdn.com/content/image/3-s2.0-B9781597499613000030-f03-08-9781597499613.jpg"/><p>
 
 
 Une requête se compose de drapeau (flags) suivants :
