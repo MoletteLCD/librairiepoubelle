@@ -24,6 +24,8 @@
 **Playlist Grafikart Algorithmique: https://www.youtube.com/watch?v=fgcGdkhtUcE&list=PLU1uhUPH-DQDup76tvg6XnRjkR719AaFA**
 
 * Cours d'Algorithme : https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes
+* Introduction à l'algorithmique : Cours et exercices corrigés, 2e édition : https://fr1lib.org/book/668241/f51a1a?dsource=recommend
+* Algorithmes : notions de base https://fr1lib.org/book/2649347/fd9684?dsource=recommend
 
 ## Partie Web
 
@@ -115,11 +117,13 @@ SYN - SYN/ACK - ACK : Permet au client d'initier la connexion, le serveur lui re
 
 Cette représentation imagée, est appellée abstraction, pour une meilleure compréhension du fonctionnement de l'ordinateur, bien évidémment on ne vous demande pas d'être un mécano pour conduire votre bolide !
 
+Bibliographie:
+-  Architecture de l'ordinateur : Portes logiques, circuits combinatoires, arithmétique binaire, circuits séquentiels et mémoires. Exemple d'architecture https://fr1lib.org/book/1129280/ede356?dsource=recommend (Pour les plus téméraires)
 
 
-## Les Langages
+<h2 align="center"> Les Langages </h2>
 
-### Langages dit Compilés
+<h3 align="center"> Langages dit Compilés </h3>
 
 - Les langages dit compilés, sont des langages dit de bas niveau, c'est à dire que ces derniers sont au plus près du processeur si je puis me permettre, un système d'exploitation est écrit (je vous l'ai dis en haut c'est un logiciel) dans un langage bas niveau compilé car il doit interagir avec le matériel via des logiciels appelés pilotes (drivers). Dans la suite j'expliquerais le fonctionnement du système d'exploitation à travers une composante clé appelée Kernel ou Noyau.
 
@@ -202,7 +206,7 @@ For more information about this error, try `rustc --explain E0601`.
 Les erreurs du compilateur sont une aubaine, prenez les en considération sans trop devenir fous :-).
 
 
-### Langages dit Interprétés
+<h3 align="center"> Langages dit Interprétés </p>
 
 - Les langages dit interprétés, sont des langages qui peuvent être exécutés à la volée, c'est à dire qu'ils sont exécutés sans passer par une phase de compilation à la main (en réalité c'est plus complexe, voyez par vous-mêmes), on peut donc les réecrire rapidement et les relancer aussi facilement qu'un allumage de lampe.
 
@@ -227,9 +231,17 @@ En image:
 
 <p align="center"><img src="https://www.guru99.com/images/1/053018_0616_CompilervsI1.png"></p>
 
-## Cours Programmation Système
+<h2 align="center"> Cours Programmation Système </h2>
 
-#### Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers)
+<h3 align="center"> Langage C </h3>
+
+Cours:
+
+- Apprenez à programmer en C https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c
+- Programmer en Langage C (PDF) : https://fr1lib.org/book/2830378/36f79f
+- Algorithmes et Structures de Données Génériques en C (PDF) : https://fr1lib.org/book/703921/b352ef
+
+<h4 align="center"> Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers) </h4>
 
 *En général, les Pointeurs, la Pile/Tas, sont les notions les plus difficiles à cerner, mais lorsque vous les avez acquises, vous débloquez la compréhension de votre machine, son fonctionnement en mémoire et donc vous possédez une meilleure manière de rendre le programme performant.*
 
