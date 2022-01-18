@@ -68,6 +68,10 @@ Django Web Framework : https://www.youtube.com/watch?v=Bn0k9DDYBZM
 
 ## Partie Système
 
+### Anatomie d'un système d'exploitation (Operating System)
+
+<img align="center" src="http://www.courstechinfo.be/OS/Images/StructureEnCouches_001.gif"/>
+
 ### Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers)
 
 *En général, les Pointeurs, la Pile/Tas, sont les notions les plus difficiles à cerner, mais lorsque vous les avez acquises, vous débloquez la compréhension de votre machine, son fonctionnement en mémoire et donc vous possédez une meilleure manière de rendre le programme performant.*
