@@ -6,6 +6,8 @@
 
 *[Disclaimer]* *Document non exhaustif, écrit sur un coup de tête, veuillez excuser les erreurs, je rajouterais une bibliographie en français et anglais pour ceux qui souhaitent creuser.*
 
+## **Ce document n'est pas une roadmap pour devenir développeur web, système etc.. c'est une entrée dans le monde de la programmation.**
+
 <b> Logique Formelle </b> 
 
 <i> Table de Vérité et équivalence logique </i>
