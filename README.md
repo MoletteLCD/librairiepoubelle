@@ -14,9 +14,8 @@
 
 *Logique Propositionnelle utilisée en Algorithmique*
 
-<p align="right'>
-<img src="https://slideplayer.fr/slide/13671425/84/images/7/Connaissances+et+Raisonnement.jpg"/>
-                                                                                              </p>
+<p align="right"> <img src="https://slideplayer.fr/slide/13671425/84/images/7/Connaissances+et+Raisonnement.jpg"/></p>
+                                                                                             
 
 
 **Playlist Grafikart Algorithmique: https://www.youtube.com/watch?v=fgcGdkhtUcE&list=PLU1uhUPH-DQDup76tvg6XnRjkR719AaFA**
