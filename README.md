@@ -14,11 +14,11 @@
 
 <i> Table de Vérité et équivalence logique </i>
 
-<img src="https://i.ytimg.com/vi/twD3hsB_Zl0/sddefault.jpg"/>
+<p align="center"> <img src="https://i.ytimg.com/vi/twD3hsB_Zl0/sddefault.jpg"/> </p>
 
 <i> Logique Propositionnelle utilisée en Algorithmique </i>
 
-<p align="right"> <img src="https://slideplayer.fr/slide/13671425/84/images/7/Connaissances+et+Raisonnement.jpg" width="1000" height="500"/></p>
+<p align="center"> <img src="https://slideplayer.fr/slide/13671425/84/images/7/Connaissances+et+Raisonnement.jpg" width="1000" height="500"/></p>
                                                                                              
 
 **Playlist Grafikart Algorithmique: https://www.youtube.com/watch?v=fgcGdkhtUcE&list=PLU1uhUPH-DQDup76tvg6XnRjkR719AaFA**
@@ -46,7 +46,7 @@
 #### Modèle OSI ou TCP/IP pour Open Systems Interconnection | Transport Control Protocol / Internet Protocol
 
 
-<p align="right"> <img src="https://linux-note.com/wp-content/uploads/2014/11/modele-osi-vs-tcp.png"/> </p>
+<p align="center"> <img src="https://linux-note.com/wp-content/uploads/2014/11/modele-osi-vs-tcp.png"/> </p>
 
 
 
@@ -100,6 +100,8 @@ Une requête se compose de drapeau (flags) suivants :
 - ACK
 
 SYN - SYN/ACK - ACK : Permet au client d'initier la connexion, le serveur lui retourne (SYN/ACK) une initiation de connexion, tout en validant qu'il accepte la requête initiale (SYN) du client, le client lui valide la demande du serveur (ACK), et la connexion est établie, ceci est le 3 Way Handshake ou la poignée de main en 3 modes.
+  
+
 
 ## Partie Système
 
