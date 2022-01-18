@@ -6,13 +6,13 @@
 
 *[Disclaimer]* *Document non exhaustif, écrit sur un coup de tête, veuillez excuser les erreurs, je rajouterais une bibliographie en français et anglais pour ceux qui souhaitent creuser.*
 
-<b align="center"> Logique Formelle </b> 
+<b> Logique Formelle </b> 
 
-<i align="center"> Table de Vérité et équivalence logique </i>
+<i> Table de Vérité et équivalence logique </i>
 
 <img src="https://i.ytimg.com/vi/twD3hsB_Zl0/sddefault.jpg"/>
 
-<i align="center"> Logique Propositionnelle utilisée en Algorithmique </i>
+<i> Logique Propositionnelle utilisée en Algorithmique </i>
 
 <p align="right"> <img src="https://slideplayer.fr/slide/13671425/84/images/7/Connaissances+et+Raisonnement.jpg" width="1000" height="500"/></p>
                                                                                              
