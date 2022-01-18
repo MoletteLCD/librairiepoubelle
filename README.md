@@ -1,4 +1,4 @@
-# Librairie Poubelle
+<h1 align="center">  Librairie Poubelle </h1>
 
 ## Document regroupant différentes ressources informatiques, et d'autres sujets à venir.
 
