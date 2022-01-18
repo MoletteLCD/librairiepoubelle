@@ -231,6 +231,20 @@ En image:
 
 <p align="center"><img src="https://www.guru99.com/images/1/053018_0616_CompilervsI1.png"></p>
 
+
+<h4 align="center"> Fondamentaux du Système d'Exploitation : Noyau </h4>
+
+<p align="center"><img src="https://img.phonandroid.com/2016/05/kernel-explication-schema.jpg"></p>
+
+- Le Kernel ou Noyau est un logiciel faisant la jonction entre le matériel et l'utilisateur, c'est lui qui gère les échanges entre par exemple les données que le navigateur envoie vers le serveur à travers le modèle OSI, la couche applicative 7 demande au Kernel la possibilité d'utiliser la carte réseau située en couche 1.
+
+- C'est donc le logiciel dont la conception demande plus de précision, ce dernier est écrit en langages compilés pour des questions de performance et de sécurité.
+
+- Le Kernel possède son propre mode, appelé Kernel Mode.
+
+Dans la section linux, j'expliquerais le rôle du kernel mode plus en détail, par ailleurs toute explication sur le fonctionnement de l'OS sera basée sur Linux, car il est Open Source et bien détaillé, un ouvrage sur le sujet : *How Linux Works 3d Ed, No Starch Press.
+
+
 <h2 align="center"> Cours Programmation Système </h2>
 
 <h3 align="center"> Langage C </h3>
