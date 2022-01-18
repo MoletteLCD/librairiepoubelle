@@ -143,9 +143,8 @@ int main() {
 3. L'assembleur collecte le tout et le transforme en code compréhensible pour la machine soit 0/1 (.obj)
 4. Le Linker fait les liens entre les librairies statiques .lib et le code en .obj et donne un .exe ou un fichier à lancer.
 
-Parmi les langages dit compilés, on trouve le langage *C, *C++, *Rust (qui est le plus récent).
+Parmi les langages dit compilés, on trouve le langage C, C++, Rust (qui est le plus récent).
 
-#### Rust
 Exemple de code en rust:
 ```
 // Arrays - Fixed list where elements are the same data types
@@ -203,10 +202,30 @@ For more information about this error, try `rustc --explain E0601`.
 Les erreurs du compilateur sont une aubaine, prenez les en considération sans trop devenir fous :-).
 
 
-
 ### Langages dit Interprétés
 
-#### Python
+- Les langages dit interprétés, sont des langages qui peuvent être exécutés à la volée, c'est à dire qu'ils sont exécutés sans passer par une phase de compilation à la main (en réalité c'est plus complexe, voyez par vous-mêmes), on peut donc les réecrire rapidement et les relancer aussi facilement qu'un allumage de lampe.
+
+- Néanmoins, la réalité est toute autre, le langage interprété passe par une même phase de compilation mais moins compliquée, c'est ce qu'on appelle une machine virtuelle qui va lire le code, l'exécuter et nous donner le résultat, on perd en performance mais on gagne en rapidité.
+
+Python ainsi que Java sont des langages interprétés.
+
+Exemple en Python:
+
+```
+from http import HTTPStatus
+
+print(list(HTTPStatus))
+
+[Running] python -u "/"
+[<HTTPStatus.CONTINUE: 100>, <HTTPStatus.SWITCHING_PROTOCOLS: 101>, <HTTPStatus.PROCESSING: 102>, <HTTPStatus.OK: 200>, 
+
+```
+Le programme m'affiche des valeurs, à savoir les codes HTTP (cf. HTTP avec Mozilla)
+
+En image:
+
+<p align="center"><img src="https://www.guru99.com/images/1/053018_0616_CompilervsI1.png"></p>
 
 ## Cours Programmation Système
 
