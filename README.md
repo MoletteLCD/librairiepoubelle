@@ -39,10 +39,23 @@
 
 * Documentation officielle Python : https://docs.python.org/fr/3/
 
-
 ### Web, HTML/CSS/JS - HTTP
 
 *Comprendre et connaître HTTP, c'est comprendre comment le web fonctionne, comment les sites interagissent, l'architecture serveur/client*
+
+#### Modèle OSI ou TCP/IP pour Open Systems Interconnection | Transport Control Protocol / Internet Protocol
+
+<img align="right" src="https://linux-note.com/wp-content/uploads/2014/11/modele-osi-vs-tcp.png"/>
+
+**Le modèle OSI (anciennenement TCP/IP) est le modèle standard d'interconnection entre les systèmes, il est à la base du fonctionnement dans l'architecture Serveur/Client qui est utilisée sur le Web, il se décline ainsi:**
+
+- 7. Application (Navigateur)
+- 6. Présentation
+- 5. Session
+- 4. Transport (*Protocole TCP (mode connecté, quand je contacte un serveur) Protocole UDP (quand je stream une vidéo (ne donnez plus votre argent à Netflix))*
+- 3. Réseau (*Adresse IP, divisée en classes A/B/C/D/E,chez nous elles sont en 192.168.x.x/24 en général)* 
+- 2. Liaison de données (*Adresse Mac, ici sont échangées des Trames)*
+- 1. Physique (*Carte Wi-Fi physique (électronique), câble réseau, Puce 4G/5G, Fibre Optique)*
 
 *Guide Mozilla* 
 
@@ -71,6 +84,14 @@ Django Web Framework : https://www.youtube.com/watch?v=Bn0k9DDYBZM
 ### Anatomie d'un système d'exploitation (Operating System)
 
 <img align="center" src="http://www.courstechinfo.be/OS/Images/StructureEnCouches_001.gif"/>
+
+- Matériel (Hardware) : Processeur, Mémoire vive (Random Access Memory), Disque Dur (Hard Drive Disk / Solid State Drive)
+- Système d'exploitation : Logiciel permettant à l'utilisateur d'interagir avec le matériel, exemple avec le Processeur à qui j'envoie des commandes via un langage de programmation, pour qu'il execute des opérations.
+- Applications : Navigateur Web (Google Chrome), Suite Office Microsoft etc...
+
+Cette représentation imagée, est appellée abstraction, pour une meilleure compréhension du fonctionnement de l'ordinateur, bien évidémment on ne vous demande pas d'être un mécano pour conduire votre bolide !
+
+
 
 ### Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers)
 
