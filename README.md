@@ -6,9 +6,9 @@
 
 **Logique Formelle** 
 
-*Table de Vérité*
+*Table de Vérité et équivalence logique*
 
-<img src="https://theses.univ-lyon2.fr/documents/getpart.php?id=1203&file=10000000000001B9000001653CB974C6.jpg"/>
+<img src="https://i.ytimg.com/vi/twD3hsB_Zl0/sddefault.jpg"/>
 
 *Logique Propositionnelle utilisée en Algorithmique*
 
