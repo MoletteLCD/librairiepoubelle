@@ -84,13 +84,13 @@ Django Web Framework : https://www.youtube.com/watch?v=Bn0k9DDYBZM
 #### Architecture Serveur/Client
 
 
-<p align="right"> <img align="right" src="https://romainlebreton.github.io/ProgWeb-CoteServeur/assets/ClientServeur.png"/> </p>
+<p align="right"> <img src="https://romainlebreton.github.io/ProgWeb-CoteServeur/assets/ClientServeur.png"/> </p>
 
 
 #### Anatomie d'une Requête/Reponse en Architecture S/C
 
 
-<p align="right"><img align="right" src="https://ars.els-cdn.com/content/image/3-s2.0-B9781597499613000030-f03-08-9781597499613.jpg"/><p>
+<p align="right"> <img src="https://ars.els-cdn.com/content/image/3-s2.0-B9781597499613000030-f03-08-9781597499613.jpg"/> <p>
 
 
 Une requête se compose de drapeau (flags) suivants :
@@ -105,7 +105,7 @@ SYN - SYN/ACK - ACK : Permet au client d'initier la connexion, le serveur lui re
 
 ### Anatomie d'un système d'exploitation (Operating System)
 
-<img align="center" src="http://www.courstechinfo.be/OS/Images/StructureEnCouches_001.gif"/>
+<p align="right"> <img align="center" src="http://www.courstechinfo.be/OS/Images/StructureEnCouches_001.gif"/> </p>
 
 - Matériel (Hardware) : Processeur, Mémoire vive (Random Access Memory), Disque Dur (Hard Drive Disk / Solid State Drive)
 - Système d'exploitation : Logiciel permettant à l'utilisateur d'interagir avec le matériel, exemple avec le Processeur à qui j'envoie des commandes via un langage de programmation, pour qu'il execute des opérations.
