@@ -31,20 +31,28 @@
 * Apprenez la programmation orientée objet avec Python https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
 
 
-**Web, HTML/CSS/JS - HTTP **
+**Web, HTML/CSS/JS - HTTP**
 
 *Comprendre et connaître HTTP, c'est comprendre comment le web fonctionne, comment les sites interagissent, l'architecture serveur/client*
 
-*Guide Mozilla 
+*Guide Mozilla* 
 
 * HTTP https://developer.mozilla.org/fr/docs/Web/HTTP
 * HTML https://developer.mozilla.org/fr/docs/Web/HTML
 * CSS https://developer.mozilla.org/fr/docs/Web/CSS
 * JavaScript https://developer.mozilla.org/fr/docs/Web/JavaScript
 
-*Cours vidéo
+*Cours vidéo*
 
-* HTML/CSS : 
+HTML/CSS : 
 * Partie 1 https://www.youtube.com/watch?v=8FqZZrbnwkM&t=8s
 * Partie 2 https://www.youtube.com/watch?v=HN4-7k0zC-Y
 * Partie 3 https://www.youtube.com/watch?v=RUFK0mT0q2E
+
+JavaScript : https://www.youtube.com/watch?v=UEHyHxqbtyg
+
+HTTP : https://www.youtube.com/watch?v=sz3gXm5v_G0
+
+Django Web Framework : https://www.youtube.com/watch?v=Bn0k9DDYBZM 
+- Framework définition: https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203355-framework/
+
