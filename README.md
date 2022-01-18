@@ -8,6 +8,8 @@
 
 ### **Ce document n'est pas une roadmap pour devenir développeur web, système etc.. c'est une entrée dans le monde de la programmation.**
 
+## [Partie Debutant]
+
 <b> Logique Formelle </b> 
 
 <i> Table de Vérité et équivalence logique </i>
@@ -19,13 +21,13 @@
 <p align="right"> <img src="https://slideplayer.fr/slide/13671425/84/images/7/Connaissances+et+Raisonnement.jpg" width="1000" height="500"/></p>
                                                                                              
 
-
 **Playlist Grafikart Algorithmique: https://www.youtube.com/watch?v=fgcGdkhtUcE&list=PLU1uhUPH-DQDup76tvg6XnRjkR719AaFA**
 
 * Cours d'Algorithme : https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes
 
+## Partie Web
 
-**Base de la programmation avec le langage Python:**
+### Base de la programmation avec le langage Python:
 
 * APPRENDRE PYTHON : TUTO COMPLET DÉBUTANT https://www.youtube.com/watch?v=LamjAFnybo0
 
@@ -38,7 +40,7 @@
 * Documentation officielle Python : https://docs.python.org/fr/3/
 
 
-**Web, HTML/CSS/JS - HTTP**
+### Web, HTML/CSS/JS - HTTP
 
 *Comprendre et connaître HTTP, c'est comprendre comment le web fonctionne, comment les sites interagissent, l'architecture serveur/client*
 
@@ -64,7 +66,9 @@ Django Web Framework : https://www.youtube.com/watch?v=Bn0k9DDYBZM
 - Framework définition: https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203355-framework/
 
 
-**Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers)**
+## Partie Système
+
+### Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers)
 
 - Pile, Tas (Stack, Heap) et Pointeurs - Programmation en C https://youtu.be/xClAutDf6jE
 
