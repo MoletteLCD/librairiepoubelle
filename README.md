@@ -2,9 +2,9 @@
 
 <h2 align="center">  Document regroupant différentes ressources informatiques, et d'autres sujets à venir. </h2>
 
-<h3 align="center">  ### Base de la Logique et Algorithmique </h3>
+<h3 align="center">  Base de la Logique et Algorithmique </h3>
 
-*[Disclaimer]Document non exhaustif, écrit sur un coup de tête, veuillez excuser les erreurs, je rajouterais une bibliographie en français et anglais pour ceux qui souhaitent creuser.*
+*[Disclaimer]* *Document non exhaustif, écrit sur un coup de tête, veuillez excuser les erreurs, je rajouterais une bibliographie en français et anglais pour ceux qui souhaitent creuser.*
 
 <b align="center"> Logique Formelle </b> 
 
