@@ -121,6 +121,26 @@ Cette représentation imagée, est appellée abstraction, pour une meilleure com
 
 ### Langages dit Compilés
 
+- Les langages dit compilés, sont des langages dit de bas niveau, c'est à dire que ces derniers sont au plus près du processeur si je puis me permettre, un système d'exploitation est écrit (je vous l'ai dis en haut c'est un logiciel) dans un langage bas niveau compilé car il doit interagir avec le matériel via des logiciels appelés pilotes (drivers). Dans la suite j'expliquerais le fonctionnement du système d'exploitation à travers une composante clé appelée Kernel ou Noyau.
+
+- Pour expliquer ce qu'est un langage compilé, parlons langage au sens commun du terme, je vous écris en français, dans une syntaxe française dont vous comprenez la sémantique en français, pour être plus clair moi écrire français et toi lire et comprendre moi français, jusque ici tout est clair, néanmoins pour l'ordinateur ça l'est moins, notre malfrat d'acier, de silice et d'or ne comprend que les 0/1, merci Leibnitz ! Alors comment donc l'ordinateur comprend mon programme écrit pour afficher Hello World ? Il fait de la traduction ou translation binaire, c'est à dire qu'il va prendre le code écrit dans un lanage, le changer en une suite de 0 et de 1 et l'exécuter, c'est à dire interpréter les commandes et donner un résultat. Ne vous inquiétez pas l'ordinateur n'y comprends rien, il n'est pas apte à comprendre la sémantique, mais la syntaxe oui. En image voyons le processus :
+
+<p align="center"> <img src="https://miro.medium.com/max/1230/1*J5fqmdDTjrmZaZO7Ctd6sg.png"> </p>
+
+1. Le préprocession permet de rassembler et de comprendre le code utilisé en en-tête avec les #include
+
+``` 
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+
+  printf("Hello World ! \n");
+ }
+ 
+ ```
+2. Le compilateur permet de transformer le tout en code assembleur (un autre langage de bas niveau) [exemple(https://montcs.bloomu.edu/Information/LowLevel/Assembly/hello-asm.html)]
+
 #### Rust
 
 ### Langages dit Interprétés
