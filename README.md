@@ -8,7 +8,7 @@
 
 ### **Ce document n'est pas une roadmap pour devenir développeur web, système etc.. c'est une entrée dans le monde de la programmation.**
 
-## [Partie Debutant]
+## [Debutant]
 
 <b> Logique Formelle </b> 
 
