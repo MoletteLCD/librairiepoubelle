@@ -206,7 +206,7 @@ For more information about this error, try `rustc --explain E0601`.
 Les erreurs du compilateur sont une aubaine, prenez les en considération sans trop devenir fous :-).
 
 
-<h3 align="center"> Langages dit Interprétés </p>
+<h3 align="center"> Langages dit Interprétés </h3>
 
 - Les langages dit interprétés, sont des langages qui peuvent être exécutés à la volée, c'est à dire qu'ils sont exécutés sans passer par une phase de compilation à la main (en réalité c'est plus complexe, voyez par vous-mêmes), on peut donc les réecrire rapidement et les relancer aussi facilement qu'un allumage de lampe.
 
@@ -240,6 +240,13 @@ Cours:
 - Apprenez à programmer en C https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c
 - Programmer en Langage C (PDF) : https://fr1lib.org/book/2830378/36f79f
 - Algorithmes et Structures de Données Génériques en C (PDF) : https://fr1lib.org/book/703921/b352ef
+
+
+Cours vidéo:
+
+- Apprendre à programmer en C. https://youtu.be/nZGap0SnVjs
+- Playlist Langage C https://www.youtube.com/watch?v=90hGCMC3Chc&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j
+
 
 <h4 align="center"> Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers) </h4>
 
