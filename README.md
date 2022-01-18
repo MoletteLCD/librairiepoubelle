@@ -139,9 +139,70 @@ int main() {
  }
  
  ```
-2. Le compilateur permet de transformer le tout en code assembleur (un autre langage de bas niveau) [exemple(https://montcs.bloomu.edu/Information/LowLevel/Assembly/hello-asm.html)
+2. Le compilateur permet de transformer le tout en code assembleur (un autre langage de bas niveau) 
+3. L'assembleur collecte le tout et le transforme en code compréhensible pour la machine soit 0/1 (.obj)
+4. Le Linker fait les liens entre les librairies statiques .lib et le code en .obj et donne un .exe ou un fichier à lancer.
+
+Parmi les langages dit compilés, on trouve le langage *C, *C++, *Rust (qui est le plus récent).
 
 #### Rust
+Exemple de code en rust:
+```
+// Arrays - Fixed list where elements are the same data types
+
+pub fn run() {
+
+    use std::mem;
+
+    // let numbers: [i32; 5] = [1,2,3,4,5];
+    let mut numbers: [i32; 5] = [1,2,3,4,5];
+    
+    // Re-assign value
+    numbers[2] = 20;
+
+    println!("{:?}", numbers); // :? debug pour tout afficher
+
+    // Get single value
+    println!("Single value: {}", numbers[0]);
+
+    // Get array length
+    println!("Array length: {}", numbers.len());
+    
+    // Array are stack allocated
+    println!("Array occupies {} bytes", mem::size_of_val(&numbers));
+
+    // Get slice
+    let slice: &[i32] = &numbers[0..2]; // & > refere à
+    println!("Slice: {:?}", slice);
+
+
+}
+```
+Lors de la compilation de mon programme des erreurs sont apparues, le compilateur m'en a fait part:
+
+```
+[Running] 
+error[E0601]: `main` function not found in crate `arrays`
+  --> arrays.rs:3:1
+   |
+3  | / pub fn run() {
+4  | |
+5  | |     use std::mem;
+6  | |
+...  |
+28 | |
+29 | | }
+   | |_^ consider adding a `main` function to `arrays.rs`
+
+error: aborting due to previous error
+
+For more information about this error, try `rustc --explain E0601`.
+
+[Done] exited with code=1 in 0.11 seconds
+```
+Les erreurs du compilateur sont une aubaine, prenez les en considération sans trop devenir fous :-).
+
+
 
 ### Langages dit Interprétés
 
