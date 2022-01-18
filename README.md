@@ -127,7 +127,7 @@ Cette représentation imagée, est appellée abstraction, pour une meilleure com
 
 <p align="center"> <img src="https://miro.medium.com/max/1230/1*J5fqmdDTjrmZaZO7Ctd6sg.png"> </p>
 
-1. Le préprocession permet de rassembler et de comprendre le code utilisé en en-tête avec les #include
+1. Le préprocesseur permet de rassembler et de comprendre le code utilisé en en-tête avec les #include
 
 ``` 
 #include <stdio.h>
@@ -139,7 +139,7 @@ int main() {
  }
  
  ```
-2. Le compilateur permet de transformer le tout en code assembleur (un autre langage de bas niveau) [exemple(https://montcs.bloomu.edu/Information/LowLevel/Assembly/hello-asm.html)]
+2. Le compilateur permet de transformer le tout en code assembleur (un autre langage de bas niveau) [exemple(https://montcs.bloomu.edu/Information/LowLevel/Assembly/hello-asm.html)
 
 #### Rust
 
