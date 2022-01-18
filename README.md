@@ -1,18 +1,18 @@
 <h1 align="center">  Librairie Poubelle </h1>
 
-## Document regroupant différentes ressources informatiques, et d'autres sujets à venir.
+<h2 align="center">  Document regroupant différentes ressources informatiques, et d'autres sujets à venir. </h2>
 
-### Base de la Logique et Algorithmique
+<h3 align="center">  ### Base de la Logique et Algorithmique </h3>
 
-#### [Disclaimer] *Document non exhaustif, écrit sur un coup de tête, veuillez excuser les erreurs, je rajouterais une bibliographie en français et anglais pour ceux qui souhaitent creuser.*
+*[Disclaimer]Document non exhaustif, écrit sur un coup de tête, veuillez excuser les erreurs, je rajouterais une bibliographie en français et anglais pour ceux qui souhaitent creuser.*
 
-**Logique Formelle** 
+<b align="center"> Logique Formelle </b> 
 
-*Table de Vérité et équivalence logique*
+<i align="center"> Table de Vérité et équivalence logique </i>
 
 <img src="https://i.ytimg.com/vi/twD3hsB_Zl0/sddefault.jpg"/>
 
-*Logique Propositionnelle utilisée en Algorithmique*
+<i align="center"> Logique Propositionnelle utilisée en Algorithmique </i>
 
 <p align="right"> <img src="https://slideplayer.fr/slide/13671425/84/images/7/Connaissances+et+Raisonnement.jpg" width="1000" height="500"/></p>
                                                                                              
