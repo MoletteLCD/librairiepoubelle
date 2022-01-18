@@ -2,11 +2,11 @@
 
 <h2 align="center">  Document regroupant différentes ressources informatiques, et d'autres sujets à venir. </h2>
 
-<h3 align="center">  Base de la Logique et Algorithmique </h3>
+<h2 align="center">  Base de la Logique et Algorithmique </h2>
 
 *[Disclaimer]* *Document non exhaustif, écrit sur un coup de tête, veuillez excuser les erreurs, je rajouterais une bibliographie en français et anglais pour ceux qui souhaitent creuser.*
 
-## **Ce document n'est pas une roadmap pour devenir développeur web, système etc.. c'est une entrée dans le monde de la programmation.**
+### **Ce document n'est pas une roadmap pour devenir développeur web, système etc.. c'est une entrée dans le monde de la programmation.**
 
 <b> Logique Formelle </b> 
 
@@ -62,4 +62,9 @@ HTTP : https://www.youtube.com/watch?v=sz3gXm5v_G0
 
 Django Web Framework : https://www.youtube.com/watch?v=Bn0k9DDYBZM 
 - Framework définition: https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203355-framework/
+
+
+**Langage C : Pile, Tas, Pointeurs (Stack, Heap, Pointers)**
+
+- Pile, Tas (Stack, Heap) et Pointeurs - Programmation en C https://youtu.be/xClAutDf6jE
 
