@@ -244,6 +244,21 @@ En image:
 
 Dans la section linux, j'expliquerais le rôle du kernel mode plus en détail, par ailleurs toute explication sur le fonctionnement de l'OS sera basée sur Linux, car il est Open Source et bien détaillé, un ouvrage sur le sujet : *How Linux Works 3d Ed, No Starch Press.
 
+##### Kernel 
+
+Quelques informations à ce sujet:
+
+1. le kernel possède en mémoire son propre espace, différent de l'espace utilisateur : kernel space / user space.
+2. le kernel space possède des permissions propres au kernel, une permission est une sorte de liberté spéciale, par exemple en user space je peux exécuter du code mais qui n'aura pas un grand impact en général (sauf cas particuliers), hors en kernel space un code exécuté peut avoir un impact critique car les permissions ne sont pas les mêmes.
+3. le kernel orchestre le tout, il dirige le processeur vers les prochaines tâches à exécuter, ce dernier gère:
+  - Les appels Système (System Calls)
+  - Gestion de Processus (Process Management)
+  - Gestion de Mémoire (Memory Management)
+  - Pilotes matériels
+4. les processus communiquement avec le kernel via les appels systèmes pour pouvoir utiliser les ressources matérielles.
+5. le kernel lui dans sa gestion des processus communique au processeur les tâches à exécuter, et le processeur alloue (prête) un temps d'exécution, un cpu time, qu'on appelle slice aussi et le CPU bascule entre chacun des processus (context switching) pour les faire s'exécuter simultanément pour nous, mais comme l'exécution est très rapide, tout cela est transparent pour nous. 
+
+Le chapitre 1 de **How Linux Works** l'explicite et le détaille. 
 
 <h2 align="center"> Cours Programmation Système </h2>
 
