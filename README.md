@@ -290,7 +290,7 @@ Informations:
 - Comment Apple a détruit Intel ? : https://www.youtube.com/watch?v=cLVuk14ivD4
 - Introduction aux architecteurs des processeurs : https://www.youtube.com/watch?v=s1XGQJq_lCs
 
-*Vous retrouverez plus en détail dans la partie anglais, des cours vidéos, des ouvrages sur cela.
+*Vous retrouverez plus en détail dans la partie anglais, des cours vidéos, des ouvrages sur cela.*
 
 <h2 align="center"> Cours Programmation Système </h2>
 
