@@ -1,14 +1,15 @@
 <h1 align="center">  Librairie Poubelle </h1>
 
 <h2 align="center">  Document regroupant différentes ressources informatiques, et d'autres sujets à venir. </h2>
-
+___
 <h2 align="center">  Base de la Logique et Algorithmique </h2>
-
+___
 *[Disclaimer]* *Document non exhaustif, écrit sur un coup de tête, veuillez excuser les erreurs, je rajouterais une bibliographie en français et anglais pour ceux qui souhaitent creuser.*
 
 ### **Ce document n'est pas une roadmap pour devenir développeur web, système etc.. c'est une entrée dans le monde de la programmation.**
 
 ## [Debutant]
+___
 
 <b> Logique Formelle </b> 
 
@@ -28,8 +29,10 @@
 * Algorithmes : notions de base https://fr1lib.org/book/2649347/fd9684?dsource=recommend
 
 ## Partie Web
+___
 
 ### Base de la programmation avec le langage Python:
+___
 
 * APPRENDRE PYTHON : TUTO COMPLET DÉBUTANT https://www.youtube.com/watch?v=LamjAFnybo0
 
@@ -42,11 +45,12 @@
 * Documentation officielle Python : https://docs.python.org/fr/3/
 
 ### Web, HTML/CSS/JS - HTTP
+___
 
 *Comprendre et connaître HTTP, c'est comprendre comment le web fonctionne, comment les sites interagissent, l'architecture serveur/client*
 
 #### Modèle OSI ou TCP/IP pour Open Systems Interconnection | Transport Control Protocol / Internet Protocol
-
+___
 
 <p align="center"> <img src="https://linux-note.com/wp-content/uploads/2014/11/modele-osi-vs-tcp.png"/> </p>
 
@@ -84,13 +88,13 @@ Django Web Framework : https://www.youtube.com/watch?v=Bn0k9DDYBZM
 - Framework définition: https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203355-framework/
 
 #### Architecture Serveur/Client
-
+___
 
 <p align="center"> <img src="https://romainlebreton.github.io/ProgWeb-CoteServeur/assets/ClientServeur.png"/> </p>
 
 
 #### Anatomie d'une Requête/Reponse en Architecture S/C
-
+___
 
 <p align="center"> <img src="https://ars.els-cdn.com/content/image/3-s2.0-B9781597499613000030-f03-08-9781597499613.jpg"/> <p>
 
@@ -106,9 +110,11 @@ SYN - SYN/ACK - ACK : Permet au client d'initier la connexion, le serveur lui re
 
 
 ## Partie Système
-
+___
+  
 ### Anatomie d'un système d'exploitation (Operating System)
-
+___
+  
 <p align="center"> <img src="http://www.courstechinfo.be/OS/Images/StructureEnCouches_001.gif"/> </p>
 
 - Matériel (Hardware) : Processeur, Mémoire vive (Random Access Memory), Disque Dur (Hard Drive Disk / Solid State Drive)
@@ -120,10 +126,13 @@ Cette représentation imagée, est appellée abstraction, pour une meilleure com
 Bibliographie:
 -  Architecture de l'ordinateur : Portes logiques, circuits combinatoires, arithmétique binaire, circuits séquentiels et mémoires. Exemple d'architecture https://fr1lib.org/book/1129280/ede356?dsource=recommend (Pour les plus téméraires)
 
+___
 
 <h2 align="center"> Les Langages </h2>
+___
 
 <h3 align="center"> Langages dit Compilés </h3>
+___
 
 - Les langages dit compilés, sont des langages dit de bas niveau, c'est à dire que ces derniers sont au plus près du processeur si je puis me permettre, un système d'exploitation est écrit (je vous l'ai dis en haut c'est un logiciel) dans un langage bas niveau compilé car il doit interagir avec le matériel via des logiciels appelés pilotes (drivers). Dans la suite j'expliquerais le fonctionnement du système d'exploitation à travers une composante clé appelée Kernel ou Noyau.
 
@@ -245,6 +254,7 @@ En image:
 Dans la section linux, j'expliquerais le rôle du kernel mode plus en détail, par ailleurs toute explication sur le fonctionnement de l'OS sera basée sur Linux, car il est Open Source et bien détaillé, un ouvrage sur le sujet : *How Linux Works 3d Ed, No Starch Press.
 
 ##### Kernel 
+___
 
 Quelques informations à ce sujet:
 
@@ -262,6 +272,7 @@ Le chapitre 1 de **How Linux Works** l'explicite et le détaille.
 
 
 <h3 align="center"> Le Processeur CPU </h3>
+___
 
 
 - Qu'est-ce qu'un processeur
@@ -299,12 +310,14 @@ Par ailleurs, les processeurs ont aussi d'autres particularités, notamment les 
 *Vous retrouverez plus en détail dans la partie anglais, des cours vidéos, des ouvrages sur cela.*
 
 <h2 align="center"> Cours Programmation Système </h2>
+___
 
 
 *Disclaimer: n'étant pas programmeur pro, veuillez excuser mes erreurs si j'en commet, je suis novice encore sur ce sujet !*
 
 
 <h3 align="center"> Points communs entre langages </h3>
+___
 
 Le point commun à tout les langages c'est : le langage ! Plus sérieusement, la syntaxe est la base commune et les instructions passées au CPU à exécuter, le socle commun est donc traduire pour avoir un résultat.
 
@@ -369,6 +382,7 @@ La programmation orientée Objet est l'un des paradigme les plus utilisé et le 
 
 
 <h3 align="center"> Langage C </h3>
+___
 
 Cours:
 
@@ -393,5 +407,6 @@ Cours vidéo:
 
 
 <h1 align="center"> Ressources en Anglais </h1>
+___
 
 ***Pour cette partie là, il y aura plus amples ressources, car l'abondance en anglais de cours de qualité est magistrale, néanmoins la partie française sera modifiée si de nouvelles trouvailles atterissent et enrichissent le contenu.***
