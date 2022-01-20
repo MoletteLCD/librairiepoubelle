@@ -300,7 +300,7 @@ Par ailleurs, les processeurs ont aussi d'autres particularités, notamment les 
 
 <h2 align="center"> Cours Programmation Système </h2>
 
-
+*Disclaimer: n'étant pas programmeur pro, veuillez excuser mes erreurs si j'en commet, je suis novice encore sur ce sujet !*
 
 <h3 align="center"> Points communs entre langages </h3>
 
@@ -308,9 +308,60 @@ Le point commun à tout les langages c'est : le langage ! Plus sérieusement, la
 
 Quelques mots clés à retenir sous forme de tableau :
 
-|Type                   | mot clé |
-|-----------------------|--------:|
-|chaine de caractère    | str     |
+|Type                   | mot clé       |
+|-----------------------|--------------:|
+|chaine de caractère    | str           |
+|nombre entier          | int (integer) |
+|nombre à virgule       | float         |
+|booléen                | True/False    |
+
+Exemple en code Python:
+
+```
+chaineDeCaractere = 'Je suis une chaine de caractère'
+nombreEntier = 1
+nombreVirgule = 1.0
+booleanTrue = True
+
+# affiche le str
+print(type(chaineDeCaractere))
+
+# affiche le int
+print(type(nombreEntier))
+
+# affiche le float
+print(type(nombreVirgule))
+
+# affiche le boolean
+print(type(booleanTrue))
+
+```
+Résultat:
+
+```
+<class 'str'>
+<class 'int'>
+<class 'float'>
+<class 'bool'>
+
+```
+
+D'autre mots clés associés à des notions communes au langages existent comme: 
+
+- variables : var
+- constantes : const
+- importer : import
+- le type : type
+- l'affichage : print, printf
+- arguments : args
+
+Ceci est une liste non exaustive et il faudra se référer à la documentation et au mots clés des différents langages.
+
+Par ailleurs, il existe ce qu'on appelle des paradigmes (l'utilisation du mot paradigme est reprise des travaux du scientifique Thomas Kuhn dans '*La Structure des Révolutions Scientifiques*' pour viser ce qu'on peut communément appeler une vision des choses) en programmation, nous avons par exemple:
+
+- La programmation fonctionnelle : orientée mathématiques.
+- La programmation orientée objet : exemple une voiture est composée de 4 roues, un moteur, un chassis, un pare-brise, des essuie glace, celle-ci constitue un objet de classe voiture, composée de propriétés (moteur, roues etc..) appelée attributs, et de méthodes (accelérer, ralentir etc..).
+- La programmation procédurale : utilisation de fonctions données pour telle ou telle tâche. 
 
 
 
