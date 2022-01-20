@@ -300,7 +300,9 @@ Par ailleurs, les processeurs ont aussi d'autres particularités, notamment les 
 
 <h2 align="center"> Cours Programmation Système </h2>
 
+
 *Disclaimer: n'étant pas programmeur pro, veuillez excuser mes erreurs si j'en commet, je suis novice encore sur ce sujet !*
+
 
 <h3 align="center"> Points communs entre langages </h3>
 
@@ -363,6 +365,7 @@ Par ailleurs, il existe ce qu'on appelle des paradigmes (l'utilisation du mot pa
 - La programmation orientée objet : exemple une voiture est composée de 4 roues, un moteur, un chassis, un pare-brise, des essuie glace, celle-ci constitue un objet de classe voiture, composée de propriétés (moteur, roues etc..) appelée attributs, et de méthodes (accelérer, ralentir etc..).
 - La programmation procédurale : utilisation de fonctions données pour telle ou telle tâche. 
 
+La programmation orientée Objet est l'un des paradigme les plus utilisé et le plus commun en programmation.
 
 
 <h3 align="center"> Langage C </h3>
