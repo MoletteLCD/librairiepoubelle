@@ -109,10 +109,10 @@ SYN - SYN/ACK - ACK : Permet au client d'initier la connexion, le serveur lui re
 
 
 ## Partie Système
-___
+
   
 ### Anatomie d'un système d'exploitation (Operating System)
-___
+
   
 <p align="center"> <img src="http://www.courstechinfo.be/OS/Images/StructureEnCouches_001.gif"/> </p>
 
@@ -128,10 +128,10 @@ Bibliographie:
 ___
 
 <h2 align="center"> Les Langages </h2>
-___
+
 
 <h3 align="center"> Langages dit Compilés </h3>
-___
+
 
 - Les langages dit compilés, sont des langages dit de bas niveau, c'est à dire que ces derniers sont au plus près du processeur si je puis me permettre, un système d'exploitation est écrit (je vous l'ai dis en haut c'est un logiciel) dans un langage bas niveau compilé car il doit interagir avec le matériel via des logiciels appelés pilotes (drivers). Dans la suite j'expliquerais le fonctionnement du système d'exploitation à travers une composante clé appelée Kernel ou Noyau.
 
