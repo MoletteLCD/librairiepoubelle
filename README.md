@@ -407,6 +407,5 @@ Cours vidéo:
 
 
 <h1 align="center"> Ressources en Anglais </h1>
-___
 
 ***Pour cette partie là, il y aura plus amples ressources, car l'abondance en anglais de cours de qualité est magistrale, néanmoins la partie française sera modifiée si de nouvelles trouvailles atterissent et enrichissent le contenu.***
