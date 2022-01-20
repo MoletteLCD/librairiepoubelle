@@ -285,10 +285,13 @@ L'architecture CISC permet d'avoir un jeu d'instruction large, l'architecture RI
 
 L'architecture CISC est la plus répandue, néanmoins elle pose des problèmes de rapidité d'exécution, tandis que la RISC palie au problème de rapidité. On retrouve l'archtecture RISC chez Apple M1 la dernière puce, dans les raspberry Pi aussi.
 
+<p align="center"><img src="http://www.dugied.net/hardware2007/sites/mon/img/schema%20archi.gif"></p>
+
 Informations:
 
 - Comment Apple a détruit Intel ? : https://www.youtube.com/watch?v=cLVuk14ivD4
 - Introduction aux architecteurs des processeurs : https://www.youtube.com/watch?v=s1XGQJq_lCs
+- Cours présentation processeurs : http://www.dugied.net/hardware2007/sites/mon/cpu/2.html
 
 *Vous retrouverez plus en détail dans la partie anglais, des cours vidéos, des ouvrages sur cela.*
 
