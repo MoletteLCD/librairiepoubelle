@@ -293,9 +293,26 @@ Informations:
 - Introduction aux architecteurs des processeurs : https://www.youtube.com/watch?v=s1XGQJq_lCs
 - Cours présentation processeurs : http://www.dugied.net/hardware2007/sites/mon/cpu/2.html
 
+
+Par ailleurs, les processeurs ont aussi d'autres particularités, notamment les bits les processeurs dit x64 et x86, qui représentent les bits utilisés, x86 pour du 32 bit, x64 pour du 64 bit, c'est le nombre de bit utilisé par instructions. Concernant les instructions RISC, elles sont présentes sur les processeurs d'architecture ARM (Raspberry Pi par exemple) https://fr.wikipedia.org/wiki/Architecture_ARM . 
+
 *Vous retrouverez plus en détail dans la partie anglais, des cours vidéos, des ouvrages sur cela.*
 
 <h2 align="center"> Cours Programmation Système </h2>
+
+
+
+<h3 align="center"> Points communs entre langages </h3>
+
+Le point commun à tout les langages c'est : le langage ! Plus sérieusement, la syntaxe est la base commune et les instructions passées au CPU à exécuter, le socle commun est donc traduire pour avoir un résultat.
+
+Quelques mots clés à retenir sous forme de tableau :
+
+|Type                   | mot clé |
+|-----------------------|--------:|
+|chaine de caractère    | str     |
+
+
 
 <h3 align="center"> Langage C </h3>
 
