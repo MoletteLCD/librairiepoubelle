@@ -270,17 +270,27 @@ Le chapitre 1 de **How Linux Works** l'explicite et le détaille.
 
 #### Qu'est-ce qu'un processeur
 
-Un processeur ou CPU (Central Processing Unit) est une puce, possédant des transistors, un élement électronique capable d'un courant faible 0/5v pour faire passer/couper le courant lors des instructions, le 0 correspond au 0 en binaire et le 5 au 1 en binaire, la vitesse du processeur est mesurée en Hertz, Giga Hertz (GHz) etc.. l'architecture du processeur elle fait sa force.
+Cours: https://www.courstechinfo.be/Techno/CPU.html
+
+Un processeur ou CPU (Central Processing Unit) est une puce, possédant des transistors, un élement électronique capable d'un courant faible 0/5v pour faire passer/couper le courant lors des instructions, le 0 correspond au 0 en binaire et le 5 au 1 en binaire, la fréquence du processeur est mesurée en Hertz, Giga Hertz (GHz), celle-ci mesure le nombre d'opérations qu'il peut traiter, par ailleurs l'architecture du processeur fait sa force.
 
 #### Architecture CPU
 
+L'architecture du CPU est liée à ce qu'on appelle les jeux d'instructions, une instruction est une commande passée et exécutée/interprétée par le CPU pour faire très simple. On distingue deux type d'architecture:
 
+- CISC : Complex Instruction Set Computer
+- RISC : Reduced Instruction Set Computer
 
+L'architecture CISC permet d'avoir un jeu d'instruction large, l'architecture RISC elle permet d'avoir un jeu réduit. 
 
+L'architecture CISC est la plus répandue, néanmoins elle pose des problèmes de rapidité d'exécution, tandis que la RISC palie au problème de rapidité. On retrouve l'archtecture RISC chez Apple M1 la dernière puce, dans les raspberry Pi aussi.
 
+Informations:
 
+- Comment Apple a détruit Intel ? : https://www.youtube.com/watch?v=cLVuk14ivD4
+- Introduction aux architecteurs des processeurs : https://www.youtube.com/watch?v=s1XGQJq_lCs
 
-
+*Vous retrouverez plus en détail dans la partie anglais, des cours vidéos, des ouvrages sur cela.
 
 <h2 align="center"> Cours Programmation Système </h2>
 
