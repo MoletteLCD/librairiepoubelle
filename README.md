@@ -1,15 +1,14 @@
 <h1 align="center">  Librairie Poubelle </h1>
 
 <h2 align="center">  Document regroupant différentes ressources informatiques, et d'autres sujets à venir. </h2>
-___
+
 <h2 align="center">  Base de la Logique et Algorithmique </h2>
-___
+
 *[Disclaimer]* *Document non exhaustif, écrit sur un coup de tête, veuillez excuser les erreurs, je rajouterais une bibliographie en français et anglais pour ceux qui souhaitent creuser.*
 
 ### **Ce document n'est pas une roadmap pour devenir développeur web, système etc.. c'est une entrée dans le monde de la programmation.**
 
 ## [Debutant]
-___
 
 <b> Logique Formelle </b> 
 
