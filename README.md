@@ -260,6 +260,28 @@ Quelques informations à ce sujet:
 
 Le chapitre 1 de **How Linux Works** l'explicite et le détaille. 
 
+
+<h3 align="center"> Le Processeur CPU </h3>
+
+
+- Qu'est-ce qu'un processeur
+- Architecture CPU
+
+
+#### Qu'est-ce qu'un processeur
+
+Un processeur ou CPU (Central Processing Unit) est une puce, possédant des transistors, un élement électronique capable d'un courant faible 0/5v pour faire passer/couper le courant lors des instructions, le 0 correspond au 0 en binaire et le 5 au 1 en binaire, la vitesse du processeur est mesurée en Hertz, Giga Hertz (GHz) etc.. l'architecture du processeur elle fait sa force.
+
+#### Architecture CPU
+
+
+
+
+
+
+
+
+
 <h2 align="center"> Cours Programmation Système </h2>
 
 <h3 align="center"> Langage C </h3>
