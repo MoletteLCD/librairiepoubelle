@@ -272,7 +272,6 @@ Le chapitre 1 de **How Linux Works** l'explicite et le détaille.
 
 
 <h3 align="center"> Le Processeur CPU </h3>
-___
 
 
 - Qu'est-ce qu'un processeur
@@ -310,14 +309,14 @@ Par ailleurs, les processeurs ont aussi d'autres particularités, notamment les 
 *Vous retrouverez plus en détail dans la partie anglais, des cours vidéos, des ouvrages sur cela.*
 
 <h2 align="center"> Cours Programmation Système </h2>
-___
+
 
 
 *Disclaimer: n'étant pas programmeur pro, veuillez excuser mes erreurs si j'en commet, je suis novice encore sur ce sujet !*
 
 
 <h3 align="center"> Points communs entre langages </h3>
-___
+
 
 Le point commun à tout les langages c'est : le langage ! Plus sérieusement, la syntaxe est la base commune et les instructions passées au CPU à exécuter, le socle commun est donc traduire pour avoir un résultat.
 
@@ -382,7 +381,7 @@ La programmation orientée Objet est l'un des paradigme les plus utilisé et le 
 
 
 <h3 align="center"> Langage C </h3>
-___
+
 
 Cours:
 
