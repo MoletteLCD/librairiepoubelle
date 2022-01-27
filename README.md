@@ -248,7 +248,7 @@ En construction
 
 Ressources:
 
-- https://alibabatech.medium.com/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378 *GCC vs CLang - LLVM : une comparaison en profondeurs des compilateurs C/C++ 
+- https://alibabatech.medium.com/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378 *GCC vs CLang - LLVM : une comparaison en profondeurs des compilateurs C/C++* 
 
 
 
