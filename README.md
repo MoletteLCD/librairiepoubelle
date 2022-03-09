@@ -158,6 +158,7 @@ int main() {
 Parmi les langages dit compilés, on trouve le langage C, C++, Rust (qui est le plus récent).
 
 Exemple de code en rust:
+
 ```
 // Arrays - Fixed list where elements are the same data types
 
